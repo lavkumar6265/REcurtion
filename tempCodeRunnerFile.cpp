@@ -1,0 +1,1 @@
+cout<<"value of >> "<<n[1]<<endl;
